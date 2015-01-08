@@ -4,3 +4,6 @@
 [submodule "js/help-fem.js"]
 	path = js/help-fem.js
 	url = git@github.com:nubs/help-fem.js
+[submodule "js/help-fem-command-manager.js"]
+	path = js/help-fem-command-manager.js
+	url = git@github.com:nubs/help-fem-command-manager.js
