@@ -16,3 +16,6 @@
 [submodule "js/ampersand-calendar"]
 	path = js/ampersand-calendar
 	url = git@github.com:nubs/ampersand-calendar
+[submodule "js/ampersand-chart"]
+	path = js/ampersand-chart
+	url = git@github.com:nubs/ampersand-chart
