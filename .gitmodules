@@ -13,3 +13,6 @@
 [submodule "js/ampersand-time-range"]
 	path = js/ampersand-time-range
 	url = git@github.com:nubs/ampersand-time-range
+[submodule "js/ampersand-calendar"]
+	path = js/ampersand-calendar
+	url = git@github.com:nubs/ampersand-calendar
