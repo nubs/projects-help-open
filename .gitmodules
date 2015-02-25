@@ -19,3 +19,6 @@
 [submodule "js/ampersand-chart"]
 	path = js/ampersand-chart
 	url = git@github.com:nubs/ampersand-chart
+[submodule "js/timeout-manager.js"]
+	path = js/timeout-manager.js
+	url = git@github.com:nubs/timeout-manager.js
