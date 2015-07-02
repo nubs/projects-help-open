@@ -1,6 +1,3 @@
-[submodule "js/help-esb.js"]
-	path = js/help-esb.js
-	url = git@github.com:nubs/help-esb.js
 [submodule "js/ampersand-search-select"]
 	path = js/ampersand-search-select
 	url = git@github.com:nubs/ampersand-search-select
