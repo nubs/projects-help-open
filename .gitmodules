@@ -13,3 +13,6 @@
 [submodule "js/timeout-manager.js"]
 	path = js/timeout-manager.js
 	url = git@github.com:nubs/timeout-manager.js
+[submodule "js/ampersand-filter-tracker"]
+	path = js/ampersand-filter-tracker
+	url = git@github.com:nubs/ampersand-filter-tracker
