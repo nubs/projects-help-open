@@ -16,3 +16,6 @@
 [submodule "js/ampersand-filter-tracker"]
 	path = js/ampersand-filter-tracker
 	url = git@github.com:nubs/ampersand-filter-tracker
+[submodule "js/strip-passwords"]
+	path = js/strip-passwords
+	url = git@github.com:nubs/strip-passwords
